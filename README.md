@@ -16,16 +16,16 @@
 import { Person } from "Sri Lanka";
 
 new Person({
-  name: "Kavishka Chathumal Kumaragama",
-  title: "Full Stack Software Engineer",
-  email: "kavishkachathumal276@gmail.com",
-  website: "kavishka.vercel.app",
+  name: "Ceylon Innovation",
+  slogan: "Empowered Engineering",
+  email: "ceyloninnovationdevelopment@gmail.com",
+  website: "https://ceyloninnovation.com",
 }).introduce();
 ```
 
 ```cmd
-D:\lab\Kavishka119> node index.js
-Hi, my name is Kavishka Chathumal Kumaragama, I'm a Full Stack Software Engineer from Sri Lanka.
+D:\lab\Ci-Devo> node index.js
+Hi, Ceylon Innovation, I'm a Full Stack Software Engineer from Sri Lanka.
 ```
 
 <!-- skills -->
